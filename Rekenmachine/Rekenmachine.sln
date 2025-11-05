@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rekenmachine", "Rekenmachine\Rekenmachine.csproj", "{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD088B02-A28F-49A9-A60F-78573E1FAFE5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\bin\Debug\net8.0\MinecraftApp.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\bin\Debug\net8.0\MinecraftApp.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\bin\Debug\net8.0\MinecraftApp.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\bin\Debug\net8.0\MinecraftApp.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\bin\Debug\net8.0\MinecraftApp.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\refint\MinecraftApp.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\MinecraftApp.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\MinecraftApp\MinecraftApp\obj\Debug\net8.0\ref\MinecraftApp.dll

@@ -1,0 +1,14 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\bin\Debug\net8.0\KnightsVsGoblins.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\bin\Debug\net8.0\KnightsVsGoblins.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\bin\Debug\net8.0\KnightsVsGoblins.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\bin\Debug\net8.0\KnightsVsGoblins.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\bin\Debug\net8.0\KnightsVsGoblins.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\refint\KnightsVsGoblins.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\KnightsVsGoblins.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\KnightsVsGoblins\KnightsVsGoblins\obj\Debug\net8.0\ref\KnightsVsGoblins.dll

@@ -1,0 +1,14 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\bin\Debug\net8.0\ClassDemo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\refint\ClassDemo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ClassDemo.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ClassDemo\ClassDemo\obj\Debug\net8.0\ref\ClassDemo.dll

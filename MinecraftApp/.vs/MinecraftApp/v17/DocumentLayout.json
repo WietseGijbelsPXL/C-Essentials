@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\MinecraftApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E5842B7-1794-4CFF-8A93-79BE8B7C016D}|MinecraftApp\\MinecraftApp.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\minecraftapp\\minecraftapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E5842B7-1794-4CFF-8A93-79BE8B7C016D}|MinecraftApp\\MinecraftApp.csproj|solutionrelative:minecraftapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\MinecraftApp\\MinecraftApp\\Program.cs",
+              "RelativeDocumentMoniker": "MinecraftApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\MinecraftApp\\MinecraftApp\\Program.cs",
+              "RelativeToolTip": "MinecraftApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:48:08.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

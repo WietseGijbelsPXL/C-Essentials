@@ -1,0 +1,14 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\bin\Debug\net8.0\Verzekering.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\bin\Debug\net8.0\Verzekering.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\bin\Debug\net8.0\Verzekering.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\bin\Debug\net8.0\Verzekering.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\bin\Debug\net8.0\Verzekering.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\refint\Verzekering.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\Verzekering.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Verzekering\Verzekering\obj\Debug\net8.0\ref\Verzekering.dll
