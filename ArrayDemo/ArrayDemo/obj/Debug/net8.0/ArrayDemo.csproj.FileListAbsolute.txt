@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\bin\Debug\net8.0\ArrayDemo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\refint\ArrayDemo.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ArrayDemo.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\ArrayDemo\ArrayDemo\obj\Debug\net8.0\ref\ArrayDemo.dll

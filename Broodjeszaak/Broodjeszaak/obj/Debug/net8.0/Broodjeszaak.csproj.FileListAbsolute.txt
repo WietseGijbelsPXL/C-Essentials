@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\bin\Debug\net8.0\Broodjeszaak.exe
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\bin\Debug\net8.0\Broodjeszaak.deps.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\bin\Debug\net8.0\Broodjeszaak.runtimeconfig.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\bin\Debug\net8.0\Broodjeszaak.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\bin\Debug\net8.0\Broodjeszaak.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.AssemblyInfo.cs
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.sourcelink.json
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\refint\Broodjeszaak.dll
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.pdb
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\Broodjeszaak.genruntimeconfig.cache
+C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Broodjeszaak\Broodjeszaak\obj\Debug\net8.0\ref\Broodjeszaak.dll
