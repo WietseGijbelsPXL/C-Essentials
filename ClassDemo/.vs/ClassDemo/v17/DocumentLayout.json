@@ -32,7 +32,11 @@
               "RelativeDocumentMoniker": "ClassDemo\\Student.cs",
               "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\ClassDemo\\ClassDemo\\Student.cs",
               "RelativeToolTip": "ClassDemo\\Student.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCQAAAAIAAAAAAAAAA==",
+>>>>>>> ef1d59813000c23e11b105ecced669f66644390f
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T12:20:28.121Z",
               "EditorCaption": ""
