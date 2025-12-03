@@ -1,0 +1,15 @@
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\bin\Debug\net8.0\LaboFouten.exe
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\bin\Debug\net8.0\LaboFouten.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\bin\Debug\net8.0\LaboFouten.runtimeconfig.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\bin\Debug\net8.0\LaboFouten.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\bin\Debug\net8.0\LaboFouten.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\refint\LaboFouten.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\LaboFouten.genruntimeconfig.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\LaboFouten\LaboFouten\obj\Debug\net8.0\ref\LaboFouten.dll

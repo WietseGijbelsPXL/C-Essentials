@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\HR app\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\HR app\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F7DC7F5-AD3A-4047-A0CD-597493987E76}|HR app\\HR app.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\hr app\\hr app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F7DC7F5-AD3A-4047-A0CD-597493987E76}|HR app\\HR app.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\hr app\\hr app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F7DC7F5-AD3A-4047-A0CD-597493987E76}|HR app\\HR app.csproj|solutionrelative:hr app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7DC7F5-AD3A-4047-A0CD-597493987E76}|HR app\\HR app.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\hr app\\hr app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F7DC7F5-AD3A-4047-A0CD-597493987E76}|HR app\\HR app.csproj|solutionrelative:hr app\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,20 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\HR app\\HR app\\Program.cs",
-              "RelativeDocumentMoniker": "HR app\\Program.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\HR app\\HR app\\Program.cs",
-              "RelativeToolTip": "HR app\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\HR app\\HR app\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HR app\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\HR app\\HR app\\Models\\Employee.cs",
+              "RelativeToolTip": "HR app\\Models\\Employee.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:09:35.191Z",
+              "WhenOpened": "2025-11-11T13:25:02.594Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\HR app\\HR app\\Program.cs",
+              "RelativeDocumentMoniker": "HR app\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\HR app\\HR app\\Program.cs",
+              "RelativeToolTip": "HR app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:09:35.191Z",
+              "EditorCaption": ""
             }
           ]
         }

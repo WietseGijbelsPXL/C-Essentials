@@ -34,12 +34,33 @@ namespace HR_app.Models
 
 		private decimal _salary;
 
-		public decimal Salaery
+		public decimal Salary
 		{
 			get { return _salary; }
 			set { _salary = value; }
 		}
 
 		public int Age => DateTime.Now.Year - _birthDate.Year;
+
+        public Employee()
+        {
+            
+        }
+
+        public Employee(string firstName, string lastName)
+        {
+            _firstName = firstName;
+			_lastName = lastName;
+        }
+
+		public void IncreaseSalary(int percentage)
+		{
+			_salary = _salary + (_salary * (decimal)(percentage) / 100);
+        }
+
+		override public string ToString()
+		{
+			return $"{_firstName} {_lastName} - {Age} - € {_salary}";
+        }
     }
 }
