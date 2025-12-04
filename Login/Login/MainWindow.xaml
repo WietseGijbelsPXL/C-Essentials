@@ -17,6 +17,7 @@
         <Button Name="loginButton" Content="Login" HorizontalAlignment="Left" Margin="225,174,0,0" VerticalAlignment="Top" Click="loginButton_Click"/>
         <Button Name="cancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="293,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.541,-0.633" Click="cancelButton_Click"/>
         <TextBlock Name="errorTextBlock" HorizontalAlignment="Center" Margin="0,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="374"/>
+        <Button Name="registerButton" Content="Register" HorizontalAlignment="Left" Margin="388,10,0,0" VerticalAlignment="Top" Click="registerButton_Click" Background="Red"/>
 
     </Grid>
 </Window>

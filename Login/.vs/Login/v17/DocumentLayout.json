@@ -15,6 +15,10 @@
       "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -52,14 +56,14 @@
               "RelativeDocumentMoniker": "Login\\Services\\UserManager.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Services\\UserManager.cs",
               "RelativeToolTip": "Login\\Services\\UserManager.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswAwAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T13:05:16.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Models\\Registration.cs",
               "RelativeDocumentMoniker": "Login\\Models\\Registration.cs",
@@ -78,9 +82,22 @@
               "RelativeDocumentMoniker": "Login\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\MainWindow.xaml.cs",
               "RelativeToolTip": "Login\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAnwDMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T13:01:30.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Login\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Data\\UserRepository.cs",
+              "RelativeToolTip": "Login\\Data\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T09:27:19.421Z",
               "EditorCaption": ""
             }
           ]

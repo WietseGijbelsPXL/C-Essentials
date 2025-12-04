@@ -18,28 +18,30 @@ namespace Login
     /// </summary>
     public partial class MainWindow : Window
     {
-        int x = 3;
+        UserManager userManager = new UserManager();
 
         public MainWindow()
         {
             InitializeComponent();
         }
 
+        private void ShowInfo(string message, Brush color)
+        {
+            errorTextBlock.Text = message;
+            errorTextBlock.Foreground = color;
+        }
+
         private void loginButton_Click(object sender, RoutedEventArgs e)
         {
-            UserManager userManager = new UserManager();
             Registration registration = new Registration(userNameTextBox.Text, passwordPasswordBox.Password);
             if (userManager.TryLogin(registration))
             {
-                errorTextBlock.Foreground = Brushes.Green;
-                errorTextBlock.Text = "Login geslaagd.";
+                ShowInfo("Login geslaagd.", Brushes.Green);
             }
             else
             {
-                x --;
-                errorTextBlock.Foreground = Brushes.Red;
-                errorTextBlock.Text = $"Ongeldige gebruikersnaam of wachtwoord (nog {x} pogingen te gaan)";
-                if (x == 0)
+                ShowInfo($"Ongeldige gebruikersnaam of wachtwoord (nog {userManager.Counter} pogingen te gaan)",Brushes.Red);
+                if (userManager.Counter == 0)
                 {
                     loginButton.IsEnabled = false;
                 }
@@ -55,8 +57,7 @@ namespace Login
         {
             if (userNameTextBox.Text == "")
             {
-                errorTextBlock.Foreground = Brushes.Gray;
-                errorTextBlock.Text = "Geef je gebruikersnaam.";
+                ShowInfo("Geef je gebruikersnaam.", Brushes.Gray);
             }
         }
 
@@ -64,8 +65,22 @@ namespace Login
         {
             if (passwordPasswordBox.Password == "")
             {
-                errorTextBlock.Foreground = Brushes.Gray;
-                errorTextBlock.Text = "Geef je wachtwoord.";
+                ShowInfo("Geef je wachtwoord.", Brushes.Gray);
+            }
+        }
+
+        private void registerButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (string.IsNullOrEmpty(userNameTextBox.Text) || string.IsNullOrEmpty(passwordPasswordBox.Password))
+            {
+                ShowInfo("Gebruikersnaam of wachtwoord leeg.", Brushes.Red);
+            }
+            else
+            {
+                if (userManager.Register(userNameTextBox.Text, passwordPasswordBox.Password))
+                {
+                    ShowInfo("Gebruiker toegevoegd.", Brushes.Green);
+                }
             }
         }
     }
