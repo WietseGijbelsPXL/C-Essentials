@@ -60,11 +60,11 @@ namespace Registratie
 
         private void olodListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            foreach(Olod olod in olodListBox.SelectedItems)
-            {
-                string totalCredits = creditsTextBlock.Text.Split(' ')[1];
+            Olod olod = (Olod)olodListBox.SelectedValue;
+            int.TryParse(creditsTextBlock.Text, out int totalCredits);
+            totalCredits += olod.Credits;
+            creditsTextBlock.Text = totalCredits.ToString();
 
-            }
         }
     }
 }

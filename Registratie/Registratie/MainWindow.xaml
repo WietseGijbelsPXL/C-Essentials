@@ -19,8 +19,9 @@
         <Label Content="Huidig diploma" HorizontalAlignment="Left" Margin="56,257,0,0" VerticalAlignment="Top"/>
         <CheckBox Content="Secundair Onderwijs ASO/TSO/BSO" HorizontalAlignment="Left" Margin="56,288,0,0" VerticalAlignment="Top"/>
         <CheckBox Content="Hoger Onderwijs (bachelor/graduaat)" HorizontalAlignment="Left" Margin="56,308,0,0" VerticalAlignment="Top"/>
-        <Label Content="Olods" HorizontalAlignment="Left" Margin="56,343,0,0" VerticalAlignment="Top"/>
-        <TextBlock Name="creditsTextBlock" HorizontalAlignment="Left" Margin="142,348,0,0" TextWrapping="Wrap" Text="Studiepunten: 0" VerticalAlignment="Top"/>
+        <TextBlock Text="Olods" HorizontalAlignment="Left" Margin="56,343,0,0" VerticalAlignment="Top"/>
+        <Label Content="Studiepunten:" HorizontalAlignment="Left" Margin="142,341,0,0" VerticalAlignment="Top"/>
+        <TextBlock Name="creditsTextBlock" HorizontalAlignment="Left" Margin="237,346,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
         <ListBox x:Name="olodListBox" SelectionMode="Multiple" Margin="56,374,557,90" SelectionChanged="olodListBox_SelectionChanged" />
         <Button x:Name="addButton" Content="Inschrijven" HorizontalAlignment="Left" Margin="71,518,0,0" VerticalAlignment="Top"/>
         <Label Content="Student" HorizontalAlignment="Left" Margin="400,59,0,0" VerticalAlignment="Top"/>

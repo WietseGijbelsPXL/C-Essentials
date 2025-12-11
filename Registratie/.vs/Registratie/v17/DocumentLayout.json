@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\registratie\\registratie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\registratie\\registratie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|solutionrelative:registratie\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\registratie\\registratie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\registratie\\registratie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|solutionrelative:registratie\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\registratie\\registratie\\models\\olod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\registratie\\registratie\\models\\olod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|solutionrelative:registratie\\models\\olod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\registratie\\registratie\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\registratie\\registratie\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5DEA8F5-D845-4B33-9117-1BE6313AD4B1}|Registratie\\Registratie.csproj|solutionrelative:registratie\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,49 +36,46 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\Models\\Students.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\Models\\Students.cs",
               "RelativeDocumentMoniker": "Registratie\\Models\\Students.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\Models\\Students.cs",
               "RelativeToolTip": "Registratie\\Models\\Students.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T13:55:48.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T13:55:48.848Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Olod.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\Models\\Olod.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\Models\\Olod.cs",
               "RelativeDocumentMoniker": "Registratie\\Models\\Olod.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\Models\\Olod.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\Models\\Olod.cs",
               "RelativeToolTip": "Registratie\\Models\\Olod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-10T13:55:16.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T13:55:16.24Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Registratie\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\MainWindow.xaml",
               "RelativeToolTip": "Registratie\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-10T13:54:03.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-10T13:54:03.895Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Registratie\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Registratie\\Registratie\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Registratie\\Registratie\\MainWindow.xaml.cs",
               "RelativeToolTip": "Registratie\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAnwEAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAD4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-10T13:53:55.811Z",
               "EditorCaption": ""
