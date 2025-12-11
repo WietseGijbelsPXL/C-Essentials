@@ -18,6 +18,7 @@
         <Button Name="cancelButton" Content="Cancel" HorizontalAlignment="Left" Margin="293,174,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.541,-0.633" Click="cancelButton_Click"/>
         <TextBlock Name="errorTextBlock" HorizontalAlignment="Center" Margin="0,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="374"/>
         <Button Name="registerButton" Content="Register" HorizontalAlignment="Left" Margin="388,10,0,0" VerticalAlignment="Top" Click="registerButton_Click" Background="Red"/>
+        <Button x:Name="resetButton" Content="Reset" HorizontalAlignment="Left" Margin="49,174,0,0" VerticalAlignment="Top" Click="resetButton_Click"/>
 
     </Grid>
 </Window>

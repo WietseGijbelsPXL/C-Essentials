@@ -19,3 +19,24 @@ C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Login\Login\obj\Debug\
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Login\Login\obj\Debug\net8.0-windows\Login.pdb
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\bin\Debug\net8.0-windows\Login.exe
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\bin\Debug\net8.0-windows\Login.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\bin\Debug\net8.0-windows\Login.runtimeconfig.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\bin\Debug\net8.0-windows\Login.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\bin\Debug\net8.0-windows\Login.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login_MarkupCompile.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login_MarkupCompile.lref
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.g.resources
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\refint\Login.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\Login.genruntimeconfig.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Login\Login\obj\Debug\net8.0-windows\ref\Login.dll

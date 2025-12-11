@@ -29,7 +29,7 @@ namespace Login.Services
 
         public bool TryLogin(Registration credentials)
         {
-            if (userRepo.Users.TryGetValue(credentials.Username, out string pwd) && pwd == credentials.Password)
+            if (userRepo.Users.TryGetValue(credentials.Username, out string pwd) && pwd == HashPassword(credentials.Password))
             {
                 return true;
             }
@@ -52,6 +52,11 @@ namespace Login.Services
                 byte[] hash = sha.ComputeHash(bytes);
                 return Convert.ToBase64String(hash);
             }
+        }
+
+        public void ResetCounter()
+        {
+            _counter = 3;
         }
     }
 }

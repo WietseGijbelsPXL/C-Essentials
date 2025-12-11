@@ -40,7 +40,7 @@ namespace Login
             }
             else
             {
-                ShowInfo($"Ongeldige gebruikersnaam of wachtwoord (nog {userManager.Counter} pogingen te gaan)",Brushes.Red);
+                ShowInfo($"Ongeldige gebruikersnaam of wachtwoord (nog {userManager.Counter} pogingen te gaan)", Brushes.Red);
                 if (userManager.Counter == 0)
                 {
                     loginButton.IsEnabled = false;
@@ -81,6 +81,30 @@ namespace Login
                 {
                     ShowInfo("Gebruiker toegevoegd.", Brushes.Green);
                 }
+            }
+        }
+
+        private void ClearScreen(bool ResetCounter = false)
+        {
+            userNameTextBox.Clear();
+            passwordPasswordBox.Clear();
+            if (ResetCounter)
+            {
+                userManager.ResetCounter();
+                loginButton.IsEnabled = true;
+            }
+            userNameTextBox.Focus();
+        }
+
+        private void resetButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (userManager.Counter == 0)
+            {
+                ClearScreen(true);
+            }
+            else
+            {
+                ClearScreen();
             }
         }
     }

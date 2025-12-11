@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\login\\login\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\login\\login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\login\\login\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\login\\login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\login\\login\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\login\\login\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C591D191-D30E-4F79-9AAA-9A70A76A72E9}|Login\\Login.csproj|solutionrelative:login\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,11 +38,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Login\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\MainWindow.xaml",
               "RelativeToolTip": "Login\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-03T13:01:30.522Z",
@@ -50,24 +50,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Services\\UserManager.cs",
-              "RelativeDocumentMoniker": "Login\\Services\\UserManager.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Services\\UserManager.cs",
-              "RelativeToolTip": "Login\\Services\\UserManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T13:05:16.214Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Models\\Registration.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\Models\\Registration.cs",
               "RelativeDocumentMoniker": "Login\\Models\\Registration.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\Models\\Registration.cs",
               "RelativeToolTip": "Login\\Models\\Registration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,26 +65,38 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Login\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\MainWindow.xaml.cs",
               "RelativeToolTip": "Login\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAnwFIAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T13:01:30.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Data\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\Data\\UserRepository.cs",
               "RelativeDocumentMoniker": "Login\\Data\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Login\\Login\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\Data\\UserRepository.cs",
               "RelativeToolTip": "Login\\Data\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:27:19.421Z",
+              "WhenOpened": "2025-12-04T09:27:19.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "Login\\Services\\UserManager.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Login\\Login\\Services\\UserManager.cs*",
+              "RelativeToolTip": "Login\\Services\\UserManager.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T13:05:16.214Z",
               "EditorCaption": ""
             }
           ]
