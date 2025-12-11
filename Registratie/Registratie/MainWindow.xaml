@@ -17,16 +17,17 @@
         <RadioButton Name="vRadioButton" Content="V" HorizontalAlignment="Left" Margin="107,235,0,0" VerticalAlignment="Top"/>
         <RadioButton Name="xRadioButton" Content="X" HorizontalAlignment="Left" Margin="171,235,0,0" VerticalAlignment="Top"/>
         <Label Content="Huidig diploma" HorizontalAlignment="Left" Margin="56,257,0,0" VerticalAlignment="Top"/>
-        <CheckBox Content="Secundair Onderwijs ASO/TSO/BSO" HorizontalAlignment="Left" Margin="56,288,0,0" VerticalAlignment="Top"/>
-        <CheckBox Content="Hoger Onderwijs (bachelor/graduaat)" HorizontalAlignment="Left" Margin="56,308,0,0" VerticalAlignment="Top"/>
-        <Label Content="Olods" HorizontalAlignment="Left" Margin="56,343,0,0" VerticalAlignment="Top"/>
-        <TextBlock Name="creditsTextBlock" HorizontalAlignment="Left" Margin="142,348,0,0" TextWrapping="Wrap" Text="Studiepunten: 0" VerticalAlignment="Top"/>
+        <CheckBox Name="secundaryCheckBox" Content="Secundair Onderwijs ASO/TSO/BSO" HorizontalAlignment="Left" Margin="56,288,0,0" VerticalAlignment="Top"/>
+        <CheckBox Name="higherCheckBox" Content="Hoger Onderwijs (bachelor/graduaat)" HorizontalAlignment="Left" Margin="56,308,0,0" VerticalAlignment="Top"/>
+        <Label Content="Studiepunten:" HorizontalAlignment="Left" Margin="141,343,0,0" VerticalAlignment="Top"/>
+        <TextBlock Name="creditsTextBlock" HorizontalAlignment="Left" Margin="237,348,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
         <ListBox x:Name="olodListBox" SelectionMode="Multiple" Margin="56,374,557,90" SelectionChanged="olodListBox_SelectionChanged" />
-        <Button x:Name="addButton" Content="Inschrijven" HorizontalAlignment="Left" Margin="71,518,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="addButton" Content="Inschrijven" HorizontalAlignment="Left" Margin="71,518,0,0" VerticalAlignment="Top" Click="addButton_Click"/>
         <Label Content="Student" HorizontalAlignment="Left" Margin="400,59,0,0" VerticalAlignment="Top"/>
-        <ComboBox Name="studentComboBox" HorizontalAlignment="Left" Margin="533,61,0,0" VerticalAlignment="Top" Width="120"/>
+        <ComboBox Name="studentComboBox" HorizontalAlignment="Left" Margin="533,61,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="studentComboBox_SelectionChanged"/>
         <TextBlock Name="studentTextBlock" HorizontalAlignment="Left" Margin="518,108,0,0" TextWrapping="Wrap" Background="LightGray" Text="" VerticalAlignment="Top" Height="232" Width="151"/>
         <Button x:Name="deleteButton" Content="Verwijder" HorizontalAlignment="Left" Margin="608,374,0,0" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="58,348,0,0" TextWrapping="Wrap" Text="Olods" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>

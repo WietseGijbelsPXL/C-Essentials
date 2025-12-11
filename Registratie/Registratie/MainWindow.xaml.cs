@@ -20,7 +20,17 @@ namespace Registratie
         public MainWindow()
         {
             InitializeComponent();
-            LoadOlodInListBox(CreateOlodList());
+            LoadOlodInListBox();
+            InitScreen();
+        }
+
+        private void InitScreen()
+        {
+            nameTextBox.Text = string.Empty;
+            birthDatePicker.SelectedDate = null;
+            mRadioButton.IsChecked = vRadioButton.IsChecked = xRadioButton.IsChecked = secundaryCheckBox.IsChecked = higherCheckBox.IsChecked = false;
+            olodListBox.SelectedItems.Clear();
+            nameTextBox.Focus();
         }
 
         private List<Olod> CreateOlodList()
@@ -50,9 +60,9 @@ namespace Registratie
         };
         }
 
-        private void LoadOlodInListBox(List<Olod> olods)
+        private void LoadOlodInListBox()
         {
-            foreach (Olod olod in olods)
+            foreach (Olod olod in CreateOlodList())
             {
                 olodListBox.Items.Add(olod);
             }
@@ -60,11 +70,63 @@ namespace Registratie
 
         private void olodListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            foreach(Olod olod in olodListBox.SelectedItems)
-            {
-                string totalCredits = creditsTextBlock.Text.Split(' ')[1];
+            //int.TryParse(creditsTextBlock.Text, out int totalCredits);
 
+            //if (e.AddedItems.Count != 0)
+            //{
+            //    Olod addedOlod = (Olod)e.AddedItems[0];
+            //    creditsTextBlock.Text = (totalCredits + addedOlod.Credits).ToString();
+            //}
+            //else
+            //{
+            //    Olod deletedOlod = (Olod)e.RemovedItems[0];
+            //    creditsTextBlock.Text = (totalCredits - deletedOlod.Credits).ToString();
+            //}
+
+            int totalCredits = 0;
+            foreach (Olod olod in olodListBox.SelectedItems)
+            {
+                totalCredits += olod.Credits;
             }
+            creditsTextBlock.Text = totalCredits.ToString();
+        }
+
+        private void addButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (!string.IsNullOrWhiteSpace(nameTextBox.Text))
+            {
+                if (birthDatePicker.SelectedDate != null)
+                {
+                    if (mRadioButton.IsChecked == true || vRadioButton.IsChecked == true || xRadioButton.IsChecked == true)
+                    {
+                        if (secundaryCheckBox.IsChecked == true || higherCheckBox.IsChecked == true)
+                        {
+                            Student student = new Student();
+                            student.Name = nameTextBox.Text;
+                            student.BirthDate = birthDatePicker.SelectedDate.Value;
+                            student.Sex = mRadioButton.IsChecked == true ? 'M' : vRadioButton.IsChecked == true ? 'V' : 'X';
+                            foreach (Olod olod in olodListBox.SelectedItems)
+                            {
+                                student.Olods.Add(olod);
+                            }
+                            studentComboBox.Items.Add(student);
+                            InitScreen();
+                        }
+                    }
+                }
+            }
+        }
+
+        private void studentComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            Student student = (Student)studentComboBox.SelectedItem;
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine($"Naam: {student.Name}");
+            sb.AppendLine($"Geboortedatum: {student.BirthDate.ToLongDateString()}");
+            sb.AppendLine($"Sex: {student.Sex}");
+            sb.AppendLine($"Olods:");
+            sb.AppendLine(student.GetOlodSummary());
+            studentTextBlock.Text = sb.ToString();
         }
     }
 }
