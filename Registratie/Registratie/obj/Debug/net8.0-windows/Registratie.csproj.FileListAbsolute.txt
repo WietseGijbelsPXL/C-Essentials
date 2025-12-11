@@ -19,3 +19,24 @@ C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Registratie\Registrati
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.pdb
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.genruntimeconfig.cache
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\ref\Registratie.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\bin\Debug\net8.0-windows\Registratie.exe
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\bin\Debug\net8.0-windows\Registratie.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\bin\Debug\net8.0-windows\Registratie.runtimeconfig.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\bin\Debug\net8.0-windows\Registratie.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\bin\Debug\net8.0-windows\Registratie.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie_MarkupCompile.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie_MarkupCompile.lref
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.g.resources
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\refint\Registratie.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\Registratie.genruntimeconfig.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Registratie\Registratie\obj\Debug\net8.0-windows\ref\Registratie.dll

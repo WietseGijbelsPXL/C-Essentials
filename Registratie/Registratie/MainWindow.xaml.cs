@@ -119,14 +119,29 @@ namespace Registratie
 
         private void studentComboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            Student student = (Student)studentComboBox.SelectedItem;
-            StringBuilder sb = new StringBuilder();
-            sb.AppendLine($"Naam: {student.Name}");
-            sb.AppendLine($"Geboortedatum: {student.BirthDate.ToLongDateString()}");
-            sb.AppendLine($"Sex: {student.Sex}");
-            sb.AppendLine($"Olods:");
-            sb.AppendLine(student.GetOlodSummary());
-            studentTextBlock.Text = sb.ToString();
+            if (studentComboBox.SelectedItem != null)
+            {
+                Student student = (Student)studentComboBox.SelectedItem;
+                StringBuilder sb = new StringBuilder();
+                sb.AppendLine($"Naam: {student.Name}");
+                sb.AppendLine($"Geboortedatum: {student.BirthDate.ToLongDateString()}");
+                sb.AppendLine($"Sex: {student.Sex}");
+                sb.AppendLine($"Olods:");
+                sb.AppendLine(student.GetOlodSummary());
+                studentTextBlock.Text = sb.ToString();
+            }
+            else
+            {
+                studentTextBlock.Text = string.Empty;
+            }
+        }
+
+        private void deleteButton_Click(object sender, RoutedEventArgs e)
+        {
+            if (studentComboBox.SelectedItem != null)
+            {
+                studentComboBox.Items.Remove(studentComboBox.SelectedItem);
+            }
         }
     }
 }
