@@ -1,0 +1,45 @@
+﻿<Window x:Class="WPFDemo_3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFDemo_3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Background="Yellow"/>
+        <Button Background="Green" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <Label Content="Haldjapofghtiyvkthfkvbyiubhnaoeknfaroenqjsijnvao,vlo" Grid.Column="2" Grid.Row="2"/>
+        <Button Grid.Column="3" Grid.RowSpan="2"/>
+        <StackPanel Grid.Column="2">
+            <Label Content="pxl" />
+            <WrapPanel ItemWidth="150">
+                <Label Content="naam" />
+                <TextBox Name="nameTextBox" />
+            </WrapPanel>
+            <WrapPanel ItemWidth="150">
+                <Label Content="wachtwoord"/>
+                <PasswordBox x:Name="wwPssBox" />
+            </WrapPanel>
+            <Button Name="loginButton" Content="login"/>
+        </StackPanel>
+        <DockPanel Grid.Column="1">
+            <Button Background="Yellow" DockPanel.Dock="Left" Content="demo"/>
+            <Button Background="Red" DockPanel.Dock="Right" Content="demo"/>
+            <Button Background="Green" DockPanel.Dock="Top" Content="demo"/>
+            <Button Background="Aqua" DockPanel.Dock="Bottom" Content="demo"/>
+            <Label Content="label" Background="BlanchedAlmond"/>
+        </DockPanel>
+    </Grid>
+</Window>

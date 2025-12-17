@@ -1,0 +1,66 @@
+﻿<Window x:Class="LaboLayout.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LaboLayout"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Viewbox Grid.ColumnSpan="2">
+            <Label Content="Registratie nieuwe student" FontSize="60" Background="LightBlue" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="2" Margin="2"/>
+        </Viewbox>
+        <StackPanel Grid.Row="1" Background="LightCoral">
+            <Label Content="Voornaam"/>
+            <TextBox x:Name="firstNameTextBox" Margin="5 0 10 10"/>
+            <Label Content="Achternaam"/>
+            <TextBox x:Name="lastNameTextBox" Margin="5 0 10 10"/>
+            <Label Content="E-Mail"/>
+            <TextBox x:Name="emailTextBox" Margin="5 0 10 10"/>
+        </StackPanel>
+        <WrapPanel Grid.Row="2" Background="LightGreen">
+            <Button Content="Annuleren" Name="cancelButton" Width="150" FontSize="16" Margin="10" Click="cancelButton_Click"/>
+            <Button Content="Opslaan" Name="saveButton" Width="150" FontSize="16" Margin="10" Click="saveButton_Click"/>
+            <Button Content="Wissen" Name="clearButton" Width="150" FontSize="16" Margin="10" Click="clearButton_Click"/>
+        </WrapPanel>
+        <Grid Background="LightGoldenrodYellow" Grid.Column="1" Grid.Row="1" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <GroupBox Header="Departement" Margin="10">
+                <StackPanel>
+                    <RadioButton Content="Digital" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <RadioButton Content="Business" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <RadioButton Content="Education" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <RadioButton Content="MAD" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <RadioButton Content="Healthcare" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                </StackPanel>
+            </GroupBox>
+            <GroupBox Header="Diploma('s)" Margin="10" Grid.Column="1">
+                <StackPanel>
+                    <CheckBox Content="Secundair" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <CheckBox Content="Graduaat" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <CheckBox Content="Bachelor" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <CheckBox Content="Master" Margin="5" Unchecked="RadioButton_Checked" Checked="RadioButton_Checked"/>
+                </StackPanel>
+            </GroupBox>
+        </Grid>
+        <DockPanel Grid.Row="3" Grid.ColumnSpan="2" Background="LightGray" Height="50">
+            <Label Name="dateLabel" DockPanel.Dock="left"/>
+            <Label Name="timeLabel" DockPanel.Dock="Right"/>
+            <Image Name="pxlImage"/>
+        </DockPanel>
+    </Grid>
+</Window>
