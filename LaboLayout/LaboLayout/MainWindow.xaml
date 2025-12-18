@@ -41,19 +41,19 @@
             </Grid.ColumnDefinitions>
             <GroupBox Header="Departement" Margin="10">
                 <StackPanel>
-                    <RadioButton Content="Digital" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <RadioButton Content="Business" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <RadioButton Content="Education" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <RadioButton Content="MAD" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <RadioButton Content="Healthcare" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
+                    <RadioButton Content="Digital" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <RadioButton Content="Business" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <RadioButton Content="Education" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <RadioButton Content="MAD" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <RadioButton Content="Healthcare" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
                 </StackPanel>
             </GroupBox>
             <GroupBox Header="Diploma('s)" Margin="10" Grid.Column="1">
-                <StackPanel>
-                    <CheckBox Content="Secundair" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <CheckBox Content="Graduaat" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <CheckBox Content="Bachelor" Margin="5" Checked="RadioButton_Checked" Unchecked="RadioButton_Checked"/>
-                    <CheckBox Content="Master" Margin="5" Unchecked="RadioButton_Checked" Checked="RadioButton_Checked"/>
+                <StackPanel Name="checkBoxStackPanel">
+                    <!--<CheckBox Content="Secundair" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <CheckBox Content="Graduaat" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <CheckBox Content="Bachelor" Margin="5" Checked="OnCheckedChanged" Unchecked="OnCheckedChanged"/>
+                    <CheckBox Content="Master" Margin="5" Unchecked="OnCheckedChanged" Checked="OnCheckedChanged"/>-->
                 </StackPanel>
             </GroupBox>
         </Grid>

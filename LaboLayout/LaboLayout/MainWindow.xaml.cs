@@ -20,6 +20,21 @@ namespace LaboLayout
         public MainWindow()
         {
             InitializeComponent();
+            AddCheckBox();
+        }
+
+        private void AddCheckBox()
+        {
+            CheckBox newCb = new CheckBox();
+            List<string> diplomas = new List<string>() { "Secundair", "Graduaat", "Bachelor", "Master" };
+            foreach (string diploma in diplomas)
+            {
+                newCb = new CheckBox();
+                newCb.Content = diploma;
+                newCb.Checked += OnCheckedChanged;
+                newCb.Unchecked += OnCheckedChanged;
+                checkBoxStackPanel.Children.Add(newCb);
+            }
         }
 
         private void clearButton_Click(object sender, RoutedEventArgs e)
@@ -45,11 +60,19 @@ namespace LaboLayout
             ClearInput();
         }
 
-        private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        private void OnCheckedChanged(object sender, RoutedEventArgs e)
         {
-            if (sender is ToggleButton toggle)
+            //if (sender is ToggleButton toggle)
+            //{
+            //    toggle.FontWeight = toggle.IsChecked == true ? FontWeights.Bold : FontWeights.Normal;
+            //}
+            if (sender is RadioButton rb)
             {
-                toggle.FontWeight = toggle.IsChecked == true ? FontWeights.Bold : FontWeights.Normal;
+                rb.FontWeight = rb.IsChecked == true ? FontWeights.Bold : FontWeights.Regular;
+            }
+            else
+            {
+                ((CheckBox)sender).FontWeight = ((CheckBox)sender).IsChecked == true ? FontWeights.Bold : FontWeights.Regular;
             }
         }
 
