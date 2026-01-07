@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4ACBFA6B-3754-4654-93BE-E04CFAB362E2}|WPFDemo 3\\WPFDemo 3.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\wpfdemo 3\\wpfdemo 3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4ACBFA6B-3754-4654-93BE-E04CFAB362E2}|WPFDemo 3\\WPFDemo 3.csproj|solutionrelative:wpfdemo 3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4ACBFA6B-3754-4654-93BE-E04CFAB362E2}|WPFDemo 3\\WPFDemo 3.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\wpfdemo 3\\wpfdemo 3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4ACBFA6B-3754-4654-93BE-E04CFAB362E2}|WPFDemo 3\\WPFDemo 3.csproj|solutionrelative:wpfdemo 3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +27,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 3\\WPFDemo 3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFDemo 3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 3\\WPFDemo 3\\MainWindow.xaml",
+              "RelativeToolTip": "WPFDemo 3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T11:37:04.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 3\\WPFDemo 3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFDemo 3\\MainWindow.xaml.cs",
