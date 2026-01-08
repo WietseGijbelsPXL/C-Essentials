@@ -14,6 +14,14 @@
             </MenuItem>
             <MenuItem Header="Afsluiten" Click="CloseClick" ></MenuItem>
         </Menu>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem HorizontalAlignment="Right">
+                <WrapPanel>
+                    <Label Content="Current Time:"></Label>
+                    <Label Name="timeLabel"/>
+                </WrapPanel>
+            </StatusBarItem>
+        </StatusBar>
         <Grid>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>

@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace EventPlanner
 {
@@ -23,6 +24,16 @@ namespace EventPlanner
             TypeComboBox.Items.Add("Orkest");
             TypeComboBox.Items.Add("Opera");
             AddButton.IsEnabled = false;
+
+            DispatcherTimer timer = new DispatcherTimer();
+            timer.Interval = new TimeSpan(0, 0, 1);
+            timer.Tick += Timer_Tick;
+            timer.Start();
+        }
+
+        private void Timer_Tick(object? sender, EventArgs e)
+        {
+            timeLabel.Content = DateTime.Now.ToLongTimeString();
         }
 
         private void AddButton_Click(object sender, RoutedEventArgs e)
@@ -40,9 +51,12 @@ namespace EventPlanner
 
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
         {
-            //EventListBox.Items.Remove(EventListBox.SelectedItem);
             if (EventListBox.SelectedIndex > -1)
-                EventListBox.Items.RemoveAt(EventListBox.SelectedIndex);
+            {
+                if (MessageBox.Show($"Bent u zeker dat u het {((Event)EventListBox.SelectedItem).Type} {((Event)EventListBox.SelectedItem).Naam} wilt verwijderen?", "Verwijder confirmatie", MessageBoxButton.YesNo, MessageBoxImage.Exclamation, MessageBoxResult.No) == MessageBoxResult.Yes)
+                    //EventListBox.Items.Remove(EventListBox.SelectedItem);
+                    EventListBox.Items.RemoveAt(EventListBox.SelectedIndex);
+            }
         }
 
         private void CloseClick(object sender, RoutedEventArgs e)
