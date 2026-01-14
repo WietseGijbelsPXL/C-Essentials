@@ -5,8 +5,67 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BlackJack"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="♥ ♦ ♠ ♣ Blackjack ♥ ♦ ♠ ♣" Height="800" Width="1200" ResizeMode="NoResize" FontSize="18" Foreground="White">
+    <Window.Background>
+        <ImageBrush ImageSource="/Images/blackjack-background.png" Stretch="Fill"/>
+    </Window.Background>
     <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,0" StartPoint="0.5,1">
+                <GradientStop Color="Black" Offset="1"/>
+                <GradientStop Color="Transparent" />
+            </LinearGradientBrush>
+        </Grid.Background>
 
+        <GroupBox Header="Game" Grid.RowSpan="3">
+            <StackPanel>
+                <Button Content="New Game" Name="newGameButton"/>
+                <Separator/>
+                <TextBlock Text="Credits:"/>
+                <TextBlock x:Name="creditsTextBlock"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Bank" Grid.Column="1">
+            <StackPanel Orientation="Horizontal" x:Name="bankStack" Margin="5" Width="910" Height="170">
+
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="Player" Grid.Row="2" Grid.Column="1">
+            <StackPanel Orientation="Horizontal" x:Name="playerStack" Margin="5" Width="910" Height="170">
+
+            </StackPanel>
+        </GroupBox>
+        <Grid Grid.Column="1" Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel>
+                <TextBlock Text="Place your bet:"/>
+                <TextBox/>
+                <Button Content="Playe" Name="playButton"/>
+            </StackPanel>
+            <StackPanel Grid.Column="1">
+                <Image Source="/Images/cards/back.png" />
+                <WrapPanel>
+                    <Button Content="Card"/>
+                    <Button Content="Stop"/>
+                </WrapPanel>
+            </StackPanel>
+            <StackPanel Grid.Column="2">
+                <Label Name="bankPointsLabel"/>
+                <Label Name="playerPointsLabel"/>
+            </StackPanel>
+        </Grid>
     </Grid>
 </Window>
