@@ -30,8 +30,8 @@
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\BlackJack\\BlackJack\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BlackJack\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\BlackJack\\BlackJack\\MainWindow.xaml",
-              "RelativeToolTip": "BlackJack\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\BlackJack\\BlackJack\\MainWindow.xaml*",
+              "RelativeToolTip": "BlackJack\\MainWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-07T14:13:30.701Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "RelativeToolTip": "BlackJack\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T14:13:30.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T14:13:30.591Z"
             }
           ]
         }
