@@ -19,3 +19,24 @@ C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Rekensommen\Rekensomme
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.pdb
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.genruntimeconfig.cache
 C:\Users\Eigenaar\Desktop\Wietse\School\PXL\C# Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\ref\Rekensommen.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\bin\Debug\net8.0-windows\Rekensommen.exe
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\bin\Debug\net8.0-windows\Rekensommen.deps.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\bin\Debug\net8.0-windows\Rekensommen.runtimeconfig.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\bin\Debug\net8.0-windows\Rekensommen.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\bin\Debug\net8.0-windows\Rekensommen.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen_MarkupCompile.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen_MarkupCompile.lref
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.g.resources
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.AssemblyInfoInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.AssemblyInfo.cs
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.csproj.CoreCompileInputs.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.sourcelink.json
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\refint\Rekensommen.dll
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.pdb
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\Rekensommen.genruntimeconfig.cache
+C:\Users\wiets\Documents\Wietse\PXL\C-Essentials\Rekensommen\Rekensommen\obj\Debug\net8.0-windows\ref\Rekensommen.dll

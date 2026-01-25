@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Verzekering\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86F09D9F-0820-BE51-4D68-6447F145076D}|..\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\ondernemingsnummer\\ondernemingsnummer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42E164C1-3AEC-4513-847F-D301D1611B66}|Verzekering\\Verzekering.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\verzekering\\verzekering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42E164C1-3AEC-4513-847F-D301D1611B66}|Verzekering\\Verzekering.csproj|solutionrelative:verzekering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -24,11 +27,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
+              "RelativeToolTip": "..\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:27:00.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Verzekering\\Verzekering\\Program.cs",
               "RelativeDocumentMoniker": "Verzekering\\Program.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Verzekering\\Verzekering\\Program.cs",
               "RelativeToolTip": "Verzekering\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCsAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T12:44:14.554Z",
               "EditorCaption": ""

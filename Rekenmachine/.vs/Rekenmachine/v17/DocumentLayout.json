@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekenmachine\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekenmachine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}|Rekenmachine\\Rekenmachine.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\rekenmachine\\rekenmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}|Rekenmachine\\Rekenmachine.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\rekenmachine\\rekenmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72D6B10B-D0A8-42EF-A86B-B91F522BB0B1}|Rekenmachine\\Rekenmachine.csproj|solutionrelative:rekenmachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekenmachine\\Rekenmachine\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekenmachine\\Rekenmachine\\Program.cs",
               "RelativeDocumentMoniker": "Rekenmachine\\Program.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekenmachine\\Rekenmachine\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekenmachine\\Rekenmachine\\Program.cs",
               "RelativeToolTip": "Rekenmachine\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

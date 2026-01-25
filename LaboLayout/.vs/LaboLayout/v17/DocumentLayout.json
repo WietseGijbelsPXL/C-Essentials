@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\LaboLayout\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\LaboLayout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF8F0F69-E2DF-4878-B0F5-B45FC4E21E05}|LaboLayout\\LaboLayout.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\labolayout\\labolayout\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FF8F0F69-E2DF-4878-B0F5-B45FC4E21E05}|LaboLayout\\LaboLayout.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\labolayout\\labolayout\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FF8F0F69-E2DF-4878-B0F5-B45FC4E21E05}|LaboLayout\\LaboLayout.csproj|solutionrelative:labolayout\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF8F0F69-E2DF-4878-B0F5-B45FC4E21E05}|LaboLayout\\LaboLayout.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\labolayout\\labolayout\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FF8F0F69-E2DF-4878-B0F5-B45FC4E21E05}|LaboLayout\\LaboLayout.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\labolayout\\labolayout\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FF8F0F69-E2DF-4878-B0F5-B45FC4E21E05}|LaboLayout\\LaboLayout.csproj|solutionrelative:labolayout\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LaboLayout\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml",
               "RelativeToolTip": "LaboLayout\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-17T13:44:13.078Z",
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "LaboLayout\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\LaboLayout\\LaboLayout\\MainWindow.xaml.cs",
               "RelativeToolTip": "LaboLayout\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswBsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswBsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T12:42:11.936Z",
               "EditorCaption": ""

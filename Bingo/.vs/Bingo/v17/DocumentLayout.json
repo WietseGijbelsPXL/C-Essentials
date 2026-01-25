@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Bingo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC327E2-16C2-4CB5-B3BB-0BC317708E0E}|Bingo\\Bingo.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\bingo\\bingo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC327E2-16C2-4CB5-B3BB-0BC317708E0E}|Bingo\\Bingo.csproj|solutionrelative:bingo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC327E2-16C2-4CB5-B3BB-0BC317708E0E}|Bingo\\Bingo.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\bingo\\bingo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3FC327E2-16C2-4CB5-B3BB-0BC317708E0E}|Bingo\\Bingo.csproj|solutionrelative:bingo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Bingo\\Bingo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Bingo\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Bingo\\Bingo\\MainWindow.xaml",
+              "RelativeToolTip": "Bingo\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-25T10:47:19.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Bingo\\Bingo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Bingo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Bingo\\Bingo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Bingo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAlwPAAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T10:47:17.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

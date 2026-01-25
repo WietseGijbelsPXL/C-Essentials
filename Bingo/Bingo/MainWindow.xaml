@@ -1,0 +1,115 @@
+﻿<Window x:Class="Bingo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bingo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Loaded="OnWindowLoaded">
+    <DockPanel Background="Black">
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Name="newGameMenuItem" Header="Nieuw spel" Click="newGameMenuItem_Click"/>
+            <MenuItem Name="closeGameMenuItem" Header="Aflsuiten" Click="closeGameMenuItem_Click"/>
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label Margin="10" Background="White" Name="lastNumberLabel" Grid.Column="1"/>
+            <StackPanel Margin=" 10 10 10 0" Grid.Row="1" Background="LightGreen">
+                <Label Content="Player 1" Name="playerOneNameLabel" HorizontalAlignment="Center"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="B" HorizontalAlignment="Center"/>
+                    <Label Content="I" Grid.Column="1" HorizontalAlignment="Center"/>
+                    <Label Content="N" Grid.Column="2" HorizontalAlignment="Center"/>
+                    <Label Content="G" Grid.Column="3" HorizontalAlignment="Center"/>
+                    <Label Content="O" Grid.Column="4" HorizontalAlignment="Center"/>
+                </Grid>
+            </StackPanel>
+            <StackPanel Grid.Row="1" Grid.Column="1" Grid.RowSpan="3" Margin="5">
+                <Label Content="Nummers" Foreground="White"/>
+                <ListBox Name="numbersListbox">
+                    
+                </ListBox>
+            </StackPanel>
+            <StackPanel Margin="10 10 10 0" Grid.Row="1" Grid.Column="2" Background="Orange">
+                <Label Content="Player 2" Name="playerTwoNameLabel" HorizontalAlignment="Center"/>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="B" HorizontalAlignment="Center"/>
+                    <Label Content="I" Grid.Column="1" HorizontalAlignment="Center"/>
+                    <Label Content="N" Grid.Column="2" HorizontalAlignment="Center"/>
+                    <Label Content="G" Grid.Column="3" HorizontalAlignment="Center"/>
+                    <Label Content="O" Grid.Column="4" HorizontalAlignment="Center"/>
+                </Grid>
+            </StackPanel>
+            <Grid Margin="10 0 10 0" Background="LightGreen" Name="playerOneGrid" Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+            </Grid>
+            <Grid Margin="10 0 10 0" Background="Orange" Name="playerTwoGrid" Grid.Row="2" Grid.Column="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+            </Grid>
+            <StackPanel Margin="10 0 10 10" Grid.Row="4" Background="LightGreen">
+                <Button Content="Wijzig naam" Name="changeNamePlayerOneButton"/>
+                <WrapPanel>
+                    <Label Content="Score:"/>
+                    <Label Name="playerOneScoreLabel"/>
+                </WrapPanel>
+            </StackPanel>
+            <StackPanel Margin="10 0 10 10" Grid.Row="4" Grid.Column="2" Background="Orange">
+                <Button Content="Wijzig naam" Name="changeNamePlayerTwoButton"/>
+                <WrapPanel>
+                    <Label Content="Score:"/>
+                    <Label Name="playerTwoScoreLabel"/>
+                </WrapPanel>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>

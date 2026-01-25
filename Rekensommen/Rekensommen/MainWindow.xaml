@@ -44,8 +44,8 @@
         </GroupBox>
         <GroupBox Header="Bewerkingen" Grid.Column="2">
             <StackPanel>
-                <CheckBox Content="Optellen"/>
-                <CheckBox Content="Aftrekken"/>
+                <CheckBox IsChecked="True" Content="Optellen" x:Name="addOperatorCheckBox"/>
+                <CheckBox IsChecked="True" Content="Aftrekken" x:Name="subtractOperatorCheckBox"/>
             </StackPanel>
         </GroupBox>
         <GroupBox Header="Uitkomst" Grid.Column="3" Grid.ColumnSpan="2">
@@ -53,11 +53,11 @@
                 <Label Content="Negatieve getallen toegelaten?"/>
                 <StackPanel Orientation="Horizontal">
                     <RadioButton Content="Ja" GroupName="negativeNumbers"/>
-                    <RadioButton Content="Nee" GroupName="negativeNumbers"/>
+                    <RadioButton Content="Nee" GroupName="negativeNumbers" Name="disallowNegativeOutcomeRadioButton"/>
                 </StackPanel>
                 <Label Content="Maximum toepassen?"/>
                 <StackPanel Orientation="Horizontal">
-                    <RadioButton Content="Ja" GroupName="maximum"/>
+                    <RadioButton Content="Ja" GroupName="maximum" Name="applyMaximumRadioButton" Unchecked="applyMaximumRadioButton_Unchecked"  Checked="applyMaximumRadioButton_Checked"/>
                     <RadioButton Content="Nee" GroupName="maximum"/>
                     <Label Content="Maximum:"/>
                     <TextBox Text="100" Name="maximumResultTextBox"/>
@@ -68,11 +68,19 @@
         <Label Grid.Row="1" Grid.Column="1" Content="+" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="100" Name="operatorLabel"/>
         <Label Grid.Row="1" Grid.Column="2" Content="_" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="100" Name="secondNumberLabel"/>
         <Label Grid.Row="1" Grid.Column="3" Content="=" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="100" Name="equalsLabel" MouseDoubleClick="equalsLabel_MouseDoubleClick"/>
-        <TextBox Grid.Row="1" Grid.Column="4" Text="??" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="100" Name="resultTextBox"/>
+        <TextBox Grid.Row="1" Grid.Column="4" Text="??" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom" FontSize="100" Name="resultTextBox" KeyDown="resultTextBox_KeyDown"/>
         <TextBlock Grid.Row="2" Grid.ColumnSpan="2" FontSize="15">
             <Underline><Bold>Instructies</Bold></Underline>
             <LineBreak/>
-            
+            - Dubbelklik =
+            <LineBreak/>
+            - Vul het antwoord in en druk op Enter
+            <LineBreak/>
+            - Verbeter je tijd!
         </TextBlock>
+        <Button Grid.Row="2" Grid.Column="2" Margin="25" Name="showTimeButton" Click="showTimeButton_Click">
+            <Image Source="/Images/clock.png" Stretch="Uniform"/>
+        </Button>
+        <Label Name="timerLabel" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="2"/>
     </Grid>
 </Window>

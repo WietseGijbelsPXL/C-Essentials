@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekensommen\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekensommen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{244C719B-5EAE-43AF-ABC5-7C4D12815D80}|Rekensommen\\Rekensommen.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\rekensommen\\rekensommen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{244C719B-5EAE-43AF-ABC5-7C4D12815D80}|Rekensommen\\Rekensommen.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\rekensommen\\rekensommen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{244C719B-5EAE-43AF-ABC5-7C4D12815D80}|Rekensommen\\Rekensommen.csproj|solutionrelative:rekensommen\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{244C719B-5EAE-43AF-ABC5-7C4D12815D80}|Rekensommen\\Rekensommen.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\rekensommen\\rekensommen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{244C719B-5EAE-43AF-ABC5-7C4D12815D80}|Rekensommen\\Rekensommen.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\rekensommen\\rekensommen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{244C719B-5EAE-43AF-ABC5-7C4D12815D80}|Rekensommen\\Rekensommen.csproj|solutionrelative:rekensommen\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Rekensommen\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml",
               "RelativeToolTip": "Rekensommen\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-14T12:12:59.766Z",
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Rekensommen\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "Rekensommen\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAewCEAAAA+AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Rekensommen\\Rekensommen\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Rekensommen\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAD4v1MAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T12:12:50.733Z",
               "EditorCaption": ""
