@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\WPFDemo 4\\",
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4900B0E7-2D22-4A35-8287-571D0B9A782D}|WPFDemo 4\\WPFDemo 4.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\wpfdemo 4\\wpfdemo 4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{4900B0E7-2D22-4A35-8287-571D0B9A782D}|WPFDemo 4\\WPFDemo 4.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\wpfdemo 4\\wpfdemo 4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4900B0E7-2D22-4A35-8287-571D0B9A782D}|WPFDemo 4\\WPFDemo 4.csproj|solutionrelative:wpfdemo 4\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4900B0E7-2D22-4A35-8287-571D0B9A782D}|WPFDemo 4\\WPFDemo 4.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\wpfdemo 4\\wpfdemo 4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4900B0E7-2D22-4A35-8287-571D0B9A782D}|WPFDemo 4\\WPFDemo 4.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\wpfdemo 4\\wpfdemo 4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4900B0E7-2D22-4A35-8287-571D0B9A782D}|WPFDemo 4\\WPFDemo 4.csproj|solutionrelative:wpfdemo 4\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WPFDemo 4\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml",
               "RelativeToolTip": "WPFDemo 4\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-01-07T11:46:05.512Z",
@@ -40,14 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WPFDemo 4\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\WPFDemo 4\\WPFDemo 4\\MainWindow.xaml.cs",
               "RelativeToolTip": "WPFDemo 4\\MainWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T11:46:03.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T11:46:03.055Z"
             }
           ]
         }

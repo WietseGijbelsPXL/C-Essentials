@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\EventPlanner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\eventplanner\\eventplanner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\eventplanner\\eventplanner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\eventplanner\\eventplanner\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\eventplanner\\eventplanner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C57DFA-3282-4450-A851-01170349F640}|EventPlanner\\EventPlanner.csproj|solutionrelative:eventplanner\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,19 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\EventPlanner\\EventPlanner\\Event.cs",
-              "RelativeDocumentMoniker": "EventPlanner\\Event.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\EventPlanner\\EventPlanner\\Event.cs",
-              "RelativeToolTip": "EventPlanner\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:25:47.779Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\EventPlanner\\EventPlanner\\MainWindow.xaml",
               "RelativeDocumentMoniker": "EventPlanner\\MainWindow.xaml",
@@ -54,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\EventPlanner\\EventPlanner\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "EventPlanner\\MainWindow.xaml.cs",
@@ -62,8 +46,7 @@
               "RelativeToolTip": "EventPlanner\\MainWindow.xaml.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAQwDcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-07T12:16:55.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-07T12:16:55.082Z"
             }
           ]
         }

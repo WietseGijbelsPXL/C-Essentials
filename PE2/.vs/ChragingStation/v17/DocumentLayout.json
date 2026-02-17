@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\PE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73605ABD-8C16-4DB8-8640-6B0F8E5C0640}|PE2\\ChargingStation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\pe2\\pe2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{73605ABD-8C16-4DB8-8640-6B0F8E5C0640}|PE2\\ChargingStation.csproj|solutionrelative:pe2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73605ABD-8C16-4DB8-8640-6B0F8E5C0640}|PE2\\ChargingStation.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\pe2\\pe2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73605ABD-8C16-4DB8-8640-6B0F8E5C0640}|PE2\\ChargingStation.csproj|solutionrelative:pe2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{df72777a-9fad-4a96-a35f-866efd0a1ce4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\PE2\\PE2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PE2\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\PE2\\PE2\\MainWindow.xaml",
+              "RelativeToolTip": "PE2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-26T08:31:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\PE2\\PE2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PE2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\PE2\\PE2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PE2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAewH8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T08:31:22.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

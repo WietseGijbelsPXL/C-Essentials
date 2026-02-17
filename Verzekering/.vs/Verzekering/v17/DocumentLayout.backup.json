@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Verzekering\\",
+  "WorkspaceRootPath": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Verzekering\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{86F09D9F-0820-BE51-4D68-6447F145076D}|..\\Ondernemingsnummer\\Ondernemingsnummer\\Ondernemingsnummer.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\ondernemingsnummer\\ondernemingsnummer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42E164C1-3AEC-4513-847F-D301D1611B66}|Verzekering\\Verzekering.csproj|c:\\users\\eigenaar\\desktop\\wietse\\school\\pxl\\c# essentials\\verzekering\\verzekering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42E164C1-3AEC-4513-847F-D301D1611B66}|Verzekering\\Verzekering.csproj|c:\\users\\wiets\\documents\\wietse\\pxl\\c-essentials\\verzekering\\verzekering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42E164C1-3AEC-4513-847F-D301D1611B66}|Verzekering\\Verzekering.csproj|solutionrelative:verzekering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,26 +28,23 @@
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
               "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
-              "RelativeToolTip": "..\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Ondernemingsnummer\\Ondernemingsnummer\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T13:27:00.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T13:27:00.99Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Verzekering\\Verzekering\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Verzekering\\Verzekering\\Program.cs",
               "RelativeDocumentMoniker": "Verzekering\\Program.cs",
-              "ToolTip": "C:\\Users\\Eigenaar\\Desktop\\Wietse\\School\\PXL\\C# Essentials\\Verzekering\\Verzekering\\Program.cs",
+              "ToolTip": "C:\\Users\\wiets\\Documents\\Wietse\\PXL\\C-Essentials\\Verzekering\\Verzekering\\Program.cs",
               "RelativeToolTip": "Verzekering\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:44:14.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-01T12:44:14.554Z"
             }
           ]
         }
